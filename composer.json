@@ -1,0 +1,16 @@
+{
+  "name": "akartis/curl-plugin",
+  "authors": [
+    {
+      "name": "akartis",
+      "email": "sramamonjinirina@gmail.com"
+    }
+  ],
+  "require": {},
+  "description": "Curl plugin",
+  "autoload": {
+    "psr-4": {
+      "AkartisDev\\": "./src"
+    }
+  }
+}
